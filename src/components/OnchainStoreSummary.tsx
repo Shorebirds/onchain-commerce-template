@@ -13,40 +13,29 @@ export default function OnchainStoreSummary() {
             fontStretch: 'condensed',
           }}
         >
-          The future of commerce is less fee. More creativity.
+          Shorebirds is for all of us — the surfers, 
+          skaters, and shredders who live for the stoke. 
+          We’re building something new, based an ecosystem 
+          that empowers creators, athletes, and fans from 
+          around the world, and backed by the transparency 
+          and security of the blockchain.
+          
         </h2>
         <p className="text-sm leading-relaxed">
-          People and businesses lose tens of billions of dollars in transaction
-          fees and countless hours in delays to the current system that they
-          wouldn't with onchain payments.
+          Join the movement to bring millions of us - from
+          the legends we look up to, to the friends we skate
+          with - into the first surf, skate, and snow
+          community onchain.
+          
         </p>
         <p className="text-sm leading-relaxed">
           We're updating the system so it's cheaper and faster.
         </p>
         <div className="flex flex-col pt-6">
           <p className="pt-2 pb-2 font-bold text-sm leading-relaxed">
-            BUILD YOUR ONCHAIN STORE
+            THE FUTURE IS ONCHAIN
           </p>
-          <a
-            href={GITHUB_LINK}
-            className="flex cursor-pointer items-center"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <p className="text-sm leading-relaxed">FORK THIS TEMPLATE</p>
-            <span className="pl-1">
-              <ExternalLinkSvg />
-            </span>
-          </a>
-          <a
-            href={ONCHAINKIT_LINK}
-            className="flex cursor-pointer items-center pt-1"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <p className="text-sm leading-relaxed">VIEW DOCS</p>
-            <span className="pl-1">
-              <ExternalLinkSvg />
+         
             </span>
           </a>
         </div>
