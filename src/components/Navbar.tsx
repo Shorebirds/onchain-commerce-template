@@ -53,7 +53,7 @@ export default function Navbar() {
           </div>
           <nav className="hidden md:block">
             <ul className="flex space-x-6">
-              <NavbarLink link={TEMPLATE_LINK} label="FORK THIS TEMPLATE" />
+              <NavbarLink link={TEMPLATE_LINK} label="FOLLOW US ON THE GRAM" />
               <NavbarLink link={ONCHAINKIT_LINK} label="ONCHAINKIT" />
               <NavbarLink link={TWITTER_LINK} label="X" />
             </ul>
