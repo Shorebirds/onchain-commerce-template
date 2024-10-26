@@ -1,14 +1,6 @@
-# Shorebirds Surf | Skate | Snowboarding Co
+# Shorebirds Surf | Skate | Snow
 
 <img width="1200" alt="Thumbnail (1)" src="https://github.com/user-attachments/assets/e1f513ea-d1ac-4baf-908e-35b0456d5565">
-
-An Onchain Commerce Template built with [OnchainKit](https://onchainkit.xyz), and ready to be deployed to Vercel.
-
-Play with it live on https://onchain-commerce-template.vercel.app/
-
-Have fun! ⛵️
-
-<br />
 
 ## Setup
 
