@@ -6,4 +6,4 @@ export const GITHUB_LINK = 'https://github.com/coinbase/onchainkit';
 export const ONCHAINKIT_LINK = 'https://onchainkit.xyz';
 export const TEMPLATE_LINK =
   'https://github.com/coinbase/onchain-commerce-template';
-export const TWITTER_LINK = 'https://x.com/Onchainkit';
+export const TWITTER_LINK = 'https://x.com/furieboysclub';
